@@ -1,0 +1,3 @@
+include ':githubrepositories'
+include ':app'
+rootProject.name = "Network"
